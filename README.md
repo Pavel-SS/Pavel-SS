@@ -1,6 +1,5 @@
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=CC0000&background=FFFFFF&width=435&lines=Hey+there!;I'm+a+FrontEnd+Developer) -->
 
-![Header](https://raw.githubusercontent.com/Pavel-SS/Pavel-SS/main/readme_header.png "Header")
 ## Hello, folks! 
 My name is Pavel and I'm a FrontEnd Developer. You can find me on <a href="https://t.me/Pavel_13S"><img src="http://i.imgur.com/DWJroXT.png" width="24px" height="24px"/></a>,  or on <a href="https://www.linkedin.com/in/pavel-sosnovskiy-0013"><img src="http://i.imgur.com/78apom3.png" width="24px" height="24px"/></a>.
 <br/>
